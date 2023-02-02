@@ -1,4 +1,4 @@
-# Demo
+# It is a React project developed using useState and useEffect. Project scope is the comment slider. TailwindCss is used for its design.
 
 ## [Live Demo](https://slider-react-six.vercel.app/)
 
